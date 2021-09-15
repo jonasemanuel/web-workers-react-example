@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  width: 200px;
+  height: 60px;
+  font-size: 20px;
+  margin: 10px;
+  border: 1px solid #c1c1c1;
+  background-color: aliceblue;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+  font-weight: 600;
+}
+
+.btn.facebook {
+  background-color: #4267B2;
+}
+
+.btn.instagram {
+  background-color: #C13584;
+}
